@@ -1,0 +1,8 @@
+﻿newfile=0
+companyName=
+address1=
+city=
+state=
+zip=
+phone=
+serial=1
